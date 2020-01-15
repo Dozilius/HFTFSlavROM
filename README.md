@@ -11,18 +11,18 @@
 ----------
 v. 1.1 BETA.
 Fully done:
-Jotaro
-Iggy
-Mariah
-DIO
-Shadow Dio
-Avdol
-Young Joseph
-Petshop
-Old Joseph
-Kakyoin
-New Kakyoin
-Hol Horse
-Midler
-Vanilla Ice
+1. Jotaro
+2. Iggy
+3. Mariah
+4. DIO
+5. Shadow Dio
+6. Avdol
+7. Young Joseph
+8. Petshop
+9. Old Joseph
+10. Kakyoin
+11. New Kakyoin
+12. Hol Horse
+13. Midler
+14. Vanilla Ice
 
