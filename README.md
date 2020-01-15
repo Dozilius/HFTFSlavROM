@@ -9,19 +9,19 @@
 
 14.01.2020
 ----------
-v. 1.1 BETA
+v. 1.1 BETA.
 Fully done:
 Jotaro
 Iggy
 Mariah
-Dio
-S.Dio
+DIO
+Shadow Dio
 Avdol
-Youngseph
+Young Joseph
 Petshop
-Oldseph
+Old Joseph
 Kakyoin
-New Kak
+New Kakyoin
 Hol Horse
 Midler
 Vanilla Ice
