@@ -7,7 +7,7 @@
 3. Open ROM archive and replace all files with files from github.
 4. Launch the game and check if you done all right. If you have any issues, try to repeat all steps.
 
-14.01.2020
+26.01.2020
 ----------
 v. 1.2 BETA.
 Fully done:
