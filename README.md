@@ -7,9 +7,9 @@
 3. Open ROM archive and replace all files with files from github.
 4. Launch the game and check if you done all right. If you have any issues, try to repeat all steps.
 
-01.02.2020
+02.02.2020
 ----------
-v. 2.0
+v. 3.0
 1. All characters are fully done.
 2. Sound Mode is still in development.
 
